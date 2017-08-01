@@ -1,2 +1,2 @@
 # hello-world
-livin' in Russia, learnin Code
+livin' in Russia, learnin' Code
